@@ -6,6 +6,8 @@ Regresión Lineal y Árboles de decisión en Machine Learning aplicado a un prob
 
 Se utiliza un dataset con 1095 registros, correspondientes a datos tomados diariamente de una estación metereológica durante cerca de 3 años. De estos datos se utilizó el 70% de ellos para entrenar los modelos y el 30% para testing.
 
+Se utiliza el método de árboles de decisión para determinar si en horas de la tarde la humedad va a ser alta o baja, y mediante el modelo de regresión buscamos predecir el valor de humedad,
+
 ## Ejecución
 ### Los archivos principales son meteoregresion.ipynb y Clasificacion_arboles.ipynb
 Instalar primero la plataforma anaconda la cual puede descargar de www.anaconda.com/products/individual , luego ejecutar los archivos desde Jupyter
