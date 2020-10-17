@@ -7,6 +7,6 @@ Regresión Lineal y Árboles de decisión en Machine Learning aplicado a un prob
 Se utiliza un dataset con 1095 registros, correspondientes a datos tomados diariamente de una estación metereológica durante cerca de 3 años. De estos datos se utilizó el 70% de ellos para entrenar los modelos y el 30% para testing.
 
 ## Ejecución
-### Los archivos principales son meteoregresion.ipynb y meteoarboles.ipynb
+### Los archivos principales son meteoregresion.ipynb y Clasificacion_arboles.ipynb
 Instalar primero la plataforma anaconda la cual puede descargar de www.anaconda.com/products/individual 
 Ejecutar los archivos desde Jupyter
