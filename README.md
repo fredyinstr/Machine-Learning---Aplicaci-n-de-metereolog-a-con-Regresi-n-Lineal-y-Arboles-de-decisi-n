@@ -8,5 +8,4 @@ Se utiliza un dataset con 1095 registros, correspondientes a datos tomados diari
 
 ## Ejecución
 ### Los archivos principales son meteoregresion.ipynb y Clasificacion_arboles.ipynb
-Instalar primero la plataforma anaconda la cual puede descargar de www.anaconda.com/products/individual 
-Ejecutar los archivos desde Jupyter
+Instalar primero la plataforma anaconda la cual puede descargar de www.anaconda.com/products/individual , luego ejecutar los archivos desde Jupyter
